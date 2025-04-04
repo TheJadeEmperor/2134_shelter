@@ -761,7 +761,7 @@ strong {
 }
 
 .reviews-block-image-wrap {
-  background-image: url('../images/mid-section-waitress-wiping-espresso-machine-with-napkin-cafa-c.jpg');
+  background-image: url('../images/reviews/history_bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -776,11 +776,23 @@ strong {
   margin-right: 10px;
 }
 
+.reviews-block-headline {
+  color: var(--dark-color);
+  font-weight: bolder;
+}
+
+.reviews-block-subheadline {
+  color: var(--dark-color);
+  font-weight: bolder;
+  text-decoration: overline;
+}
+
 .reviews-block-info {
   padding: 20px 30px;
 }
 
 .reviews-block-info p {
+  font-weight: 900;
   font-size: var(--btn-font-size);
   font-style: italic;
   color: rgba(255, 255, 255, 0.75);
