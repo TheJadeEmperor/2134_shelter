@@ -11,6 +11,10 @@ https://www.tooplate.com/view/2137-barista-cafe
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
+  --urgent-color:                 #B22222; 
+  --readable-color:               #333333;
+  --brick-color:                  #8B0000; 
+
   --primary-color:                #BC6C25;
   --secondary-color:              #DDA15E;
   --section-bg-color:             #b78752;
@@ -20,6 +24,7 @@ https://www.tooplate.com/view/2137-barista-cafe
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
   --link-hover-color:             #E76F51;
+
 
   --body-font-family:             'Plus Jakarta Sans', sans-serif;
 
@@ -132,13 +137,14 @@ strong {
 /*---------------------------------------
   SECTION               
 -----------------------------------------*/
+
+.who-section {
+  background-color: var(--brick-color);
+}
+
 .section-padding {
   padding-top: 100px;
   padding-bottom: 100px;
-}
-
-.section-bg {
-  background-color: var(--section-bg-color);
 }
 
 .section-overlay {
@@ -356,9 +362,7 @@ strong {
   color: var(--white-color);
 }
 
-.navbar .navbar-brand-image {
-  filter: brightness(0) invert(1);
-}
+ 
 
 .navbar-brand-image {
   width: 48px;
@@ -540,11 +544,11 @@ strong {
   border-radius: var(--border-radius-medium);
   content: "";
   position: absolute;
-  top: 55%;
+  top: 52%;
   left: 50%;
   transform: translate(-55%, -50%) rotate(45deg);
   width: 250px;
-  height: 350px;
+  height: 300px;
   pointer-events: none;
 }
 
@@ -560,6 +564,7 @@ strong {
 
 .small-text {
   color: var(--secondary-color);
+  font-weight: 900;
 }
 
 .hero-section .custom-border-btn {
@@ -601,7 +606,7 @@ strong {
   ABOUT              
 -----------------------------------------*/
 .about-section {
-  background-color: var(--secondary-color);
+  background-color: var(--readable-color);
   position: relative;
 }
 
@@ -623,7 +628,8 @@ strong {
 }
 
 .about-video-info {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.35), rgba(188, 108, 37, 1));
+  background-image: 
+  linear-gradient(to bottom, rgba(0, 0, 0, 0.35), rgb(201 59 89));
   border-radius: var(--border-radius-medium);
   bottom: 0;
   height: auto;
@@ -745,8 +751,8 @@ strong {
 /*---------------------------------------
   REVIEWS              
 -----------------------------------------*/
-.reviews-section {
-  background-color: #7c5c52;
+#history {
+  background-color: var(--readable-color); 
 }
 
 .reviews-block {
@@ -856,10 +862,9 @@ strong {
   CONTACT               
 -----------------------------------------*/
 .contact-section {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(188, 108, 37, 1)), url('../images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgb(235, 73, 127)), url('../images/volunteers.jpg');
+  background-position: top;
+  background-repeat: no-repeat; 
 }
 
 .google-map {
@@ -1210,3 +1215,11 @@ strong {
   }
 }
 
+/*
+@media (min-width: 768px) and (max-width: 940px) {
+  iframe {
+    width: 80%;   
+     
+  }
+}
+*/

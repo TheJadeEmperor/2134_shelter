@@ -18,7 +18,8 @@
               { src: 'images/hero/hero_5.jpg' }
           ],
           timer: false,
-          transitionDuration: 8000,
+          transitionDuration: 5000,
+          animationDuration: 9000,
           animation: 'kenburns',
       });
     });
