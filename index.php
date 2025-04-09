@@ -1,8 +1,10 @@
 <?php
 
+include('hoverbox.php'); 
+
 switch($_GET['page']) {
     case 'volunteer':
-        $fileName = 'volunteer.html';
+        $fileName = 'volunteer.php';
         break;
 
     default:

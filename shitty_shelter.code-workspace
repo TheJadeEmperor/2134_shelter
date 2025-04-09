@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../hoverbox_gallery"
 		}
 	],
 	"settings": {}

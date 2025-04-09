@@ -17,17 +17,16 @@ https://www.tooplate.com/view/2137-barista-cafe
 
   --primary-color:                #BC6C25;
   --secondary-color:              #DDA15E;
-  --section-bg-color:             #b78752;
+  --section-bg-color:             #d07a2f;
   --custom-btn-bg-color:          #BC6C25;
   --custom-btn-bg-hover-color:    #DDA15E;
   --dark-color:                   #000000;
   --p-color:                      #717275;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #E76F51;
-
+  --link-color: #4682B4;
+  --link-hover-color:             #B22222;
 
   --body-font-family:             'Plus Jakarta Sans', sans-serif;
-
   --h1-font-size:                 68px;
   --h2-font-size:                 46px;
   --h3-font-size:                 32px;
@@ -59,20 +58,11 @@ body {
   TYPOGRAPHY               
 -----------------------------------------*/
 
-h2,
-h3,
-h4,
-h5,
-h6 {
+h2, h3, h4, h5, h6 {
   color: var(--dark-color);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-weight: var(--font-weight-bold);
 }
 
@@ -120,8 +110,7 @@ button {
 
 a {
   display: inline-block;
-  color: var(--primary-color);
-  text-decoration: none;
+  color: var(--border-color); 
 }
 
 a:hover {
@@ -813,7 +802,7 @@ strong {
   BOOKING SECTION              
 -----------------------------------------*/
 .booking-section {
-  background-image: url('../images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg');
+  background-image: url('');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;

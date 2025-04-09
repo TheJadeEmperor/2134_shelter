@@ -21,6 +21,7 @@
                         </a>
                     </li>
                 </ul>
+                <p>&nbsp;</p>
             </div> 
 
             <div class="col-md-6 mx-auto">
@@ -39,5 +40,17 @@
     <script src="js/click-scroll.js"></script>
     <script src="js/vegas.min.js"></script>
     <script src="js/custom.js"></script>
+    <script src="js/hoverbox.js"></script>
+    <script>
+        function isWeChat() {
+            const ua = navigator.userAgent.toLowerCase();
+            return ua.indexOf('micromessenger') !== -1;
+        }
+
+        if (isWeChat()) {
+            // Show fallback image
+            document.getElementById('outrage_video').innerHTML = '<img src="images/events/no_shelter.gif" />';
+        }
+    </script>
 </body>
 </html>
