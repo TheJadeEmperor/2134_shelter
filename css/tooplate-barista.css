@@ -1204,11 +1204,9 @@ strong {
   }
 }
 
-/*
-@media (min-width: 768px) and (max-width: 940px) {
-  iframe {
-    width: 80%;   
-     
-  }
+textarea {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  resize: vertical; /* Allows user to resize vertically only */
 }
-*/

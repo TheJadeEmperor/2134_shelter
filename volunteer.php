@@ -45,15 +45,13 @@
                 </div>
             </section>
 
-            
-
             <section class="who-section section-padding" id="about_us">
                 <div class="container">
                     <div class="row align-items-center">
 
                         <div class="col-lg-6 col-12">
                             <div class="ratio ratio-1x1" id="outrage_video">
-                                <video controls autoplay loop class="custom-video" playsinline webkit-playsinline>
+                                <video controls muted autoplay class="custom-video" playsinline webkit-playsinline>
                                     <source src="images/events/04_06_dimple/dimple_visit_1.mp4" type="video/mp4">
                                     
                                     Your browser does not support the video tag.
@@ -94,87 +92,81 @@
                                 </video>
                                
                             </div>
-                        </div>
+                        </div> 
 
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="who-section section-padding section-bg" id="events">
+
+            <section class="who-section section-padding" id="about_us">
                 <div class="container">
-                    <div class="col-lg-12 col-12 text-center mb-4 pb-lg-2">
-                        <h1 class="text-white mb-0">Events</h1>
+                    <div class="row align-items-center">
 
-                            <p>&nbsp;</p>
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-12 mt-4 mt-lg-0 mx-auto">
-                                    <?php
-                                        $atts = array(
-                                            'project_folder' => 'images/events/04_06_dimple',
-                                            'project_name' => 'Dimple visits the Shelter'
-                                        );
+                        <div class="col-lg-12 col-12">
+                            <em class="text-white">Spread the word!</em>
+                            <h2 class="text-white mb-3">Reach Out To Your Politicians</h2>
+                        </div>
+                        <p>&nbsp;</p>
+                        <div class="col-lg-5 col-12">
+                          
+                            <p class="text-white">Hakeem Jeffries - 8th Congressional District<br />445 Neptune Avenue<br />718-373-0033</p>
 
-                                        echo gallery_function($atts);
-                                    ?>
-                                </div>
-                                <div class="col-lg-6 col-12">
-                                    <p><h3 class="text-white mb-0">04/06/2025 - Dimple visits the Shelter</h3></p>
-                                </div>
-                            </div>
+                            <p class="text-white">Nicole Malliotakis - 11th Congressional District<br />7716 Third Avenue<br />718-306-1620</p>
 
-                            <p>&nbsp;</p><p>&nbsp;</p>
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-12 mt-4 mt-lg-0 mx-auto">
-                                    <p><h3 class="text-white mb-0">04/02/2025 - Court Case of Westhab vs Homeowners</h3></p>
-                                </div>
-                                <div class="col-lg-6 col-12">
-                                    <?php
-                                    $atts = array(
-                                        'project_folder' => 'images/events/04_02_court',
-                                        'project_name' => 'Court Case of Westhab vs Homeowners'
-                                    );
+                            <p class="text-white">Alec brook-Krasny - 46th Assembly District<br />2002 Mermaid Avenue<br />718-266-0267</p>
 
-                                    echo gallery_function($atts);
-                                    ?>
-                                </div>
-                            </div>
+                            <p class="text-white">Simcha Eichenstein - 48th Assembly District<br />1310 48th Street<br />718-853-9616</p>
 
-                            <p>&nbsp;</p><p>&nbsp;</p>
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-12 mt-4 mt-lg-0 mx-auto">
-                                <?php
-                                    $atts = array(
-                                        'project_folder' => 'images/events/04_01_mercedes',
-                                        'project_name' => 'Protest Against Mercedes\'s Office'
-                                    );
+                            <p class="text-white">Farah Louis - 45th Council District<br />1423 Flatbush Avenue<br />718-629-2900</p>
 
-                                    echo gallery_function($atts);
-                                ?>
-                                </div>
-                                <div class="col-lg-6 col-12">
-                                
-                                 <p><h3 class="text-white mb-0">04/01/2025 - Protest Against Mercedes's Office</h3></p>
-                                </div>
-                            </div>
+                            <p class="text-white">Mercedes Narcisse - 46th Council District<br />5827 Flatlands Avenue<br />718-241-9330</p>
 
-                            <p>&nbsp;</p><p>&nbsp;</p>
-                            <div class="row align-items-center">
-                                <div class="col-lg-5 col-12 mt-4 mt-lg-0 mx-auto">
-                                <h3 class="text-white mb-0">03/25/2025 - Kingsborough Community Meeting</h3>
-                                </div>
-                                <div class="col-lg-6 col-12">
-                                <?php
-                        $atts = array(
-                            'project_folder' => 'images/events/03_25_kings/',
-                            'project_name' => '03/25/2025 - Kingsborough Community Meeting'
-                        );
+                            <p class="text-white">Justin Brannan - 47th Council District<br />1915 Mermaid Avenue<br />718-373-9673</p>
+
+                        </div>
+                        <div class="col-lg-5 col-12"> 
+                            <p class="text-white">Yvette D Clarke - 9th Congressional District<br />445 Neptune Avenue<br />718-287-1142</p>
+
+                            <p class="text-white">Kalman Yeger - 41st Assemby District<br />3520 Nostrand Avenue<br />718-648-4700</p>
+
+                            <p class="text-white">William Colton - 47th Assembly District<br />155 Kings Highway<br />718-236-1598</p>
+
+                            <p class="text-white">Jaime Williams - 59th Assembly District<br />5318 Avenue N<br />718-252-2124</p>
+
+                            <p class="text-white">Nikki Lucas - 60th Assembly District<br />669 Vermont Street<br />718-257-5824</p>
+
+                            <p class="text-white">Inna Vernikov - 48th Council District<br />1711 Gravesend Neck Road<br />718-368-9176</p>
+
+                            <p class="text-white">Antonio Reynoso - Brooklyn Borough President<br />209 Joralemom Street<br />718-802-3900</p>
+                        </div>
+                        <p>&nbsp;</p>
+
+                        <div class="col-lg-12 col-12" > 
+                            <h4 class="text-white mb-3">Sample Letter to Send</h4>
+                            <p class="text-white mb-3">Subject: Request for Support Against Proposed Shelter at 2134 Coyle Street</p>
+<textarea class="form-control" id="message" rows="20">Subject: Request for Support Against Proposed Shelter at 2134 Coyle Street
+
+Dear [Council Member / Assembly Member / Senator] [Last Name],
+
+I hope this message finds you well. I am a resident of the [Neighborhood Name] community, and I am writing to express my deep concern regarding the proposed homeless shelter at 2134 Coyle Street.
+
+While I believe we all share compassion for individuals experiencing homelessness, the decision to place a shelter of this scale in our residential neighborhood raises serious questions about community input, safety, and long-term planning. The location is in close proximity to multiple daycare centers, schools, and senior facilities, and I fear this could significantly impact the quality of life and safety for our most vulnerable populations.
+
+Many of us in the community feel blindsided by this plan. There was little to no outreach or opportunity for residents to engage before the decision was advanced. We are asking for transparency, accountability, and most importantly — your support in advocating for either the relocation of this project or the implementation of meaningful safeguards to protect our neighborhood.
+
+Please stand with your constituents. Help us ensure that solutions for homelessness are created with communities, not forced upon them. We are eager to work together for an outcome that is both compassionate and responsible.
+
+Thank you for your attention, and I look forward to your response.
+
+Sincerely,
+[Your Full Name]
+[Your Address / Neighborhood]
+[Email or Phone Number if appropriate]</textarea>
+
+                         </div>
                         
-                        echo gallery_function($atts);
-                        ?>
-                                </div>
-                            </div> 
-
-                             
+                        </div>
                     </div>
                 </div>
             </section>
