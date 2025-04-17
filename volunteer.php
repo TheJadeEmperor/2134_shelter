@@ -114,7 +114,7 @@
 
                             <p class="text-white">Nicole Malliotakis - 11th Congressional District<br />7716 Third Avenue<br />718-306-1620</p>
 
-                            <p class="text-white">Alec brook-Krasny - 46th Assembly District<br />2002 Mermaid Avenue<br />718-266-0267</p>
+                            <p class="text-white">Alec Brook-Krasny - 46th Assembly District<br />2002 Mermaid Avenue<br />718-266-0267</p>
 
                             <p class="text-white">Simcha Eichenstein - 48th Assembly District<br />1310 48th Street<br />718-853-9616</p>
 
