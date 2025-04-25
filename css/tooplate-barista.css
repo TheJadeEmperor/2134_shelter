@@ -1211,7 +1211,7 @@ textarea {
   resize: vertical; /* Allows user to resize vertically only */
 }
 
-.flyer {
+.flyer { 
   border: 10px solid white;
 }
 
