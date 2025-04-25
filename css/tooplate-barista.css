@@ -20,8 +20,7 @@ https://www.tooplate.com/view/2137-barista-cafe
   --section-bg-color:             #d07a2f;
   --custom-btn-bg-color:          #BC6C25;
   --custom-btn-bg-hover-color:    #DDA15E;
-  --dark-color:                   #000000;
-  --p-color:                      #717275;
+  --dark-color:                   #000000; 
   --border-color:                 #7fffd4;
   --link-color: #4682B4;
   --link-hover-color:             #B22222;
@@ -94,6 +93,7 @@ p {
   color: var(--p-color);
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-light);
+  text-align: left;
 }
 
 ul li {
@@ -1209,4 +1209,12 @@ textarea {
   max-width: 100%;
   box-sizing: border-box;
   resize: vertical; /* Allows user to resize vertically only */
+}
+
+.flyer {
+  border: 10px solid white;
+}
+
+.flyer:hover {
+  border: 10px solid rgb(94, 87, 87);
 }
