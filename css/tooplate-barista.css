@@ -1218,3 +1218,7 @@ textarea {
 .flyer:hover {
   border: 10px solid rgb(94, 87, 87);
 }
+
+.center {
+  text-align: center;
+}
