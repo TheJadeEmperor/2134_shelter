@@ -3,14 +3,15 @@
 include('hoverbox.php'); 
 
 switch($_GET['page']) {
+   
     case 'news':
-        $fileName = 'news.html';
+        $fileName = 'news.php';
         break;
 
     case 'volunteer':
         $fileName = 'volunteer.html';
         break;
-
+        
     default:
         $fileName = 'index.html';
 
