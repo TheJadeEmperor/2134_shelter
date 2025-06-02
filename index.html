@@ -1,4 +1,14 @@
 
+<?php
+
+$nextEvent = array(
+    'nextDate' => 'June 14th',
+    'nextEventName' => 'Early Voting Begins',
+    'nextEventAlert' => ' 📣 Use your power to vote!',
+); 
+
+?>
+
                 <section class="hero-section d-flex justify-content-center align-items-center">
 
                     <div class="container">
@@ -7,13 +17,13 @@
                             <div class="col-lg-8 col-12 mx-auto">
                                 📣📣 <em class="small-text">Save this date!</em>📣📣 
                                 
-                                <h1>June 1st 2025</h1>
+                                <h1><?=$nextEvent['nextDate']?></h1>
 
                                 <p class="text-white mb-4 pb-lg-2 center">
-                                    <em>01:30PM - Rally to Kings Plaza!</em>
+                                    <em><?=$nextEvent['nextEventName']?></em>
                                
                                     <br /><br />
-                                    📣 Let's meet at 2134 Coyle Street
+                                   <?=$nextEvent['nextEventAlert']?>
                                 </p>
 
                             </div>
@@ -148,7 +158,8 @@
                     </div>
                 </section>
 
-                <section class="reviews-section section-padding section-bg" id="history">
+            
+                <section class="about-section section-padding section-bg" id="history">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-lg-12 col-12 text-center mb-4 pb-lg-2">
@@ -159,7 +170,7 @@
                             <div class="timeline">
                                 
                                 <!--June 1st, 2025 -->
-                                 <div class="timeline-container timeline-container-left">
+                                 <div class="timeline-container timeline-container-right">
                                     <div class="timeline-content">
                                         <div class="reviews-block">
                                             <div class="reviews-block-image-wrap d-flex align-items-center">
@@ -172,7 +183,7 @@
                                             </div>
 
                                             <div class="reviews-block-info">
-                                                <p>Two rallies—one starting on Coyle Street and the other on Flatbush Avenue—came together as a single protest at Kings Plaza.</p>
+                                                <p>Two rallies—one starting on Coyle Street and the other on Flatbush Avenue—came together as a single protest at Kings Plaza. The speakers were Senator Stephan Chan, Assemblyman Lester Chang, Lina Chen, Dimple Willabus, and the people's mayor, Curtis Sliwa. </p>
                                             </div>
                                         </div>
                                     </div>
@@ -180,7 +191,7 @@
 
 
                                 <!-- May 07, 2025 -->
-                                <div class="timeline-container timeline-container-right">
+                                <div class="timeline-container timeline-container-left">
                                     <div class="timeline-content">
                                         <div class="reviews-block">
                                             <div class="reviews-block-image-wrap d-flex align-items-center">

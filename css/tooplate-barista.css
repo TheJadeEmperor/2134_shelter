@@ -56,10 +56,7 @@ body {
 /*---------------------------------------
   TYPOGRAPHY               
 -----------------------------------------*/
-
-h2, h3, h4, h5, h6 {
-  color: var(--dark-color);
-}
+ 
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: var(--font-weight-bold);
@@ -127,9 +124,6 @@ strong {
   SECTION               
 -----------------------------------------*/
 
-.who-section {
-  background-color: var(--brick-color);
-}
 
 .section-padding {
   padding-top: 100px;
@@ -594,6 +588,11 @@ strong {
 /*---------------------------------------
   ABOUT              
 -----------------------------------------*/
+.who-section {
+  background-color: var(--brick-color);
+  position: relative;
+}
+
 .about-section {
   background-color: var(--readable-color);
   position: relative;

@@ -102,6 +102,27 @@
 </section>
 
 <section class="about-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">Kings Plaza Rally</h2>
+                <div class="ratio ratio-16x9">
+                    <iframe width="640" height="360" src="https://www.youtube.com/embed/SFQHFbZklD4" title="U大道居民大游行 ：反对政府不经居民同意在社区建游民所 建电池仓库 建筑物高密度开发" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+               
+                <p>&nbsp;</p>
+
+                <p><a target="_blank" href="https://www.youtube.com/watch?v=SFQHFbZklD4&ab_channel=Jessiechen">Link to Youtube Video</a><p>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+
+
+<section class="about-section section-padding" id="about_us">
                 <div class="container">
                     <div class="row align-items-center">
 

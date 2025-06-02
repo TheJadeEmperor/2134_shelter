@@ -17,7 +17,10 @@
               { src: 'images/hero/hero_3.jpg' },
               { src: 'images/hero/hero_4.jpg' },
               { src: 'images/hero/hero_5.jpg' }, 
-              { src: 'images/hero/hero_6.jpg' }
+              { src: 'images/hero/hero_6.jpg' },
+              { src: 'images/hero/hero_7.jpg' },
+              { src: 'images/hero/hero_8.jpg' },
+              { src: 'images/hero/hero_9.jpg' }
           ],
           timer: false,
           transitionDuration: 5000,
