@@ -110,11 +110,8 @@
         <div class="row align-items-center">
 
             <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
-                <h2 class="text-white mb-3">PIX11 on Tragedy of 04/30</h2>
-                <div class="ratio ratio-16x9">
-                  <iframe id="nxs-video-iframe" data-frame-src="10664374"   sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" layout="responsive" src="https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098" scrolling="no" frameborder="0" allowfullscreen>	</iframe>
-                </div>
-               
+                <h2 class="text-white mb-3">PIX11 on the Tragedy of 04/30</h2>
+                    
                 <p>&nbsp;</p>
 
                 <p><a target="_blank" href="https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098">Link to PIX Article</a><p>
@@ -144,37 +141,21 @@
     </div>
 </section>
 
-
 <section class="about-section section-padding" id="about_us">
     <div class="container">
         <div class="row align-items-center">
 
-        <div class="col-lg-12 col-12"> 
-            <h2 class="text-white mb-3">Mandarin Newspapers</h2>
-        </div>
-
-        <p>&nbsp;</p>
-        <div class="col-lg-12 col-12"> 
-            
-            <p><a target="_blank" href="https://www.epochtimes.com/b5/25/5/8/n14502139.htm">https://www.epochtimes.com/b5/25/5/8/n14502139.htm</a></p>
-            
-            <p><a target="_blank" href="https://www.worldjournal.com/wj/story/121390/8717485?zh-cn">https://www.worldjournal.com/wj/story/121390/8717485?zh-cn</a></p>
-
-            <p><a target="_blank" href="https://www.epochtimes.com/b5/25/3/26/n14467149.htm">https://www.epochtimes.com/b5/25/3/26/n14467149.htm
-        </a></p>
-
-            <p><a target="_blank" href="https://www.epochtimes.com/b5/25/3/27/n14467959.htm">https://www.epochtimes.com/b5/25/3/27/n14467959.htm
-            </a></p>
-
-            <p><a target="_blank" href="https://mp.weixin.qq.com/s/mo6ldUFfNbBJe225xV7iyQ">https://mp.weixin.qq.com/s/mo6ldUFfNbBJe225xV7iyQ</a></p>
-
-            <p><a target="_blank" href="https://www.worldjournal.com/wj/story/121390/8650870?from=wj_catelistnews">https://www.worldjournal.com/wj/story/121390/8650870?from=wj_catelistnews</a></p>
-
-            <p><a target="_blank" href="https://www.singtaousa.com/2025-04-03/%E9%96%8B%E7%99%BC%E5%95%86%E8%B5%B7%E8%A8%B4%E8%8F%AF%E8%A3%94%E5%AE%B6%E5%BA%AD%E6%A1%88%E9%96%8B%E5%BA%AD/5192801">https://www.singtaousa.com/2025-04-03/%E9%96%8B%E7%99%BC%E5%95%86%E8%B5%B7%E8%A8%B4%E8%8F%AF%E8%A3%94%E5%AE%B6%E5%BA%AD%E6%A1%88%E9%96%8B%E5%BA%AD/5192801</a></p>
-        </div>
-
-                         
-                    </div>
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">Mandarin Video - World Journal eLife</h2>
+                <div class="ratio ratio-16x9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/cRZrT0b4i9A?si=nhEj_z3hn0s48xj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
-            </section>
-        </main>
+               
+                <p>&nbsp;</p>
+
+                <p><a target="_blank" href="https://www.youtube.com/watch?v=cRZrT0b4i9A&ab_channel=%E4%B8%96%E7%95%8Ce%E7%94%9F%E6%B4%BBWorldJournaleLife">Link to Youtube Video</a><p>
+            </div>
+ 
+        </div>
+    </div>
+</section>
