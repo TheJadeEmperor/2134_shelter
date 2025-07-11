@@ -1,11 +1,28 @@
 
 <?php
 
-$nextEvent = array(
-    'nextDate' => 'June 14th',
-    'nextEventName' => 'Early Voting Begins',
-    'nextEventAlert' => ' 📣 Use your power to vote!',
-); 
+$today = date('m-d-Y');
+
+if($today > "07-13-2025") {
+    
+    $nextEvent = array(
+        'nextDate' => 'July 23rd',
+        'nextEventName' => 'Court Battle with Westhab',
+        'nextEventAlert' => ' 📣 Here we go again!',
+    ); 
+
+}
+else {
+
+    $nextEvent =  array(
+        'nextDate' => 'July 13th',
+        'nextEventName' => 'Fundraiser for the Base Camp',
+        'nextEventAlert' => 'For supplies, food, lawyer fees, etc.',
+    ); 
+
+}
+
+
 
 ?>
 
@@ -163,6 +180,26 @@ $nextEvent = array(
             </div>
 
             <div class="timeline">
+
+                <!-- July 23rd, 2025 -->
+                <div class="timeline-container timeline-container-left">
+                    <div class="timeline-content">
+                        <div class="reviews-block">
+                            <div class="reviews-block-image-wrap d-flex align-items-center">
+                                <img src="images/reviews/court.png" class="reviews-block-image img-fluid" alt="2134 Coyle Street">
+
+                                <div class="">
+                                    <h6 class="reviews-block-headline">July 23rd, 2025</h6>
+                                    <em class="reviews-block-subheadline">Court Case Again</em>
+                                </div>
+                            </div>
+
+                            <div class="reviews-block-info">
+                                <p>After losing the case on May 7th, Westhab filed an appeal and tried to sue the backyard homeowners again. If history has taught us anything, it always repeats itself if people have not learned anything. Westhab has not learned anything and lost the case again, so they lost access to the backyard of the lot.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 
                 <!--June 1st, 2025 -->
                 <div class="timeline-container timeline-container-right">

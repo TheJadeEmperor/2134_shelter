@@ -13,7 +13,7 @@ switch($_GET['page']) {
         break;
         
     default:
-        $fileName = 'index.html';
+        $fileName = 'home.php';
 
 }
 

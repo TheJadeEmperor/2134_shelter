@@ -67,28 +67,8 @@
     </div>
 </section>
 
-<!-- CBS "Clash with NYPD" --> 
-<section class="about-section section-padding" id="about_us">
-    <div class="container">
-        <div class="row align-items-center">
-
-            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
-                <h2 class="text-white mb-3"></h2>
-                <div class="ratio ratio-16x9">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Udp3CT_MipM?si=B2Gunv8l6pXpZGDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
-               
-                <p>&nbsp;</p>
-
-                <p><a target="_blank" href="https://www.cbsnews.com/newyork/news/sheepshead-bay-brooklyn-homeless-shelter-westhab-community-board-15/">Link to CBS article</a><p>
-            </div>
- 
-        </div>
-    </div>
-</section>
-
 <!-- PIX11 "Not safe for kids" --> 
-<section class="who-section section-padding" id="about_us">
+<section class="about-section section-padding" id="about_us">
     <div class="container">
         <div class="row align-items-center">
 
@@ -98,23 +78,6 @@
                 </div>
                 <p>&nbsp;</p>
                 <p><a target="_blank" href="https://pix11.com/news/local-news/homeless-shelter-in-brooklyn-sparks-outrage-and-protests-not-safe-for-the-kids/">Link to Pix11 article</a><p>
-            </div>
- 
-        </div>
-    </div>
-</section>
-
-<!-- PIX11 "Lock up good citizens" --> 
-<section class="about-section section-padding" id="about_us">
-    <div class="container">
-        <div class="row align-items-center">
-
-            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
-                <h2 class="text-white mb-3">PIX11 on the Tragedy of 04/30</h2>
-                    
-                <p>&nbsp;</p>
-
-                <p><a target="_blank" href="https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098">Link to PIX Article</a><p>
             </div>
  
         </div>
@@ -141,6 +104,7 @@
     </div>
 </section>
 
+<!-- Mandarin Video --> 
 <section class="about-section section-padding" id="about_us">
     <div class="container">
         <div class="row align-items-center">
@@ -154,6 +118,101 @@
                 <p>&nbsp;</p>
 
                 <p><a target="_blank" href="https://www.youtube.com/watch?v=cRZrT0b4i9A&ab_channel=%E4%B8%96%E7%95%8Ce%E7%94%9F%E6%B4%BBWorldJournaleLife">Link to Youtube Video</a><p>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+<!-- Read More  --> 
+<section class="who-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">Read More </h2>
+               
+                <p><a target="_blank" href="https://canarsiecourier.com/sheepshead-bay-coyle-street-shelter-fight-intensifies-amid-protests-and-political-alliances/">https://canarsiecourier.com/sheepshead-bay-coyle-street-shelter-fight-intensifies-amid-protests-and-political-alliances/
+                </a><p>
+               
+                <p><a target="_blank" href="https://www.brooklynpaper.com/sheepshead-bay-coyle-street-sheter-protests/">https://www.brooklynpaper.com/sheepshead-bay-coyle-street-sheter-protests/
+                </a><p>
+
+                <p><a target="_blank" href="https://brooklyn.news12.com/sheepshead-bay-residents-push-back-against-proposed-homeless-shelter">https://brooklyn.news12.com/sheepshead-bay-residents-push-back-against-proposed-homeless-shelter
+                </a><p>
+
+                <p><a target="_blank" href="https://pix11.com/news/local-news/homeless-shelter-in-brooklyn-sparks-outrage-and-protests-not-safe-for-the-kids/">https://pix11.com/news/local-news/homeless-shelter-in-brooklyn-sparks-outrage-and-protests-not-safe-for-the-kids/
+                </a><p>
+
+                <p><a target="_blank" href="https://brooklyn.news12.com/i-want-it-to-go-away-encampments-to-protest-planned-shelter-in-sheepshead-bay-enter-2nd-month
+                ">https://brooklyn.news12.com/i-want-it-to-go-away-encampments-to-protest-planned-shelter-in-sheepshead-bay-enter-2nd-month
+                </a><p>
+
+                <p><a target="_blank" href="https://www.cbsnews.com/newyork/news/sheepshead-bay-brooklyn-homeless-shelter-westhab-community-board-15/
+                ">https://www.cbsnews.com/newyork/news/sheepshead-bay-brooklyn-homeless-shelter-westhab-community-board-15/
+                </a><p>
+
+                <p><a target="_blank" href="https://brooklyn.news12.com/at-least-2-arrested-at-protest-against-homeless-shelter-being-built-in-sheepshead-bay">https://brooklyn.news12.com/at-least-2-arrested-at-protest-against-homeless-shelter-being-built-in-sheepshead-bay</a><p> 
+
+                <p>&nbsp;</p>
+
+            </div> 
+        </div>
+    </div>
+</section>
+
+<!-- CBS "Clash with NYPD" --> 
+<section class="about-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">Tragedy of April 30th</h2>
+                <div class="ratio ratio-16x9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Udp3CT_MipM?si=B2Gunv8l6pXpZGDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+               
+                <p>&nbsp;</p>
+
+                <p><a target="_blank" href="https://www.cbsnews.com/newyork/news/sheepshead-bay-brooklyn-homeless-shelter-westhab-community-board-15/">Link to CBS article</a><p>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+
+<!-- PIX11 "Lock up good citizens" --> 
+<section class="who-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">PIX11 on the Tragedy of 04/30</h2>
+                    
+                <p>&nbsp;</p>
+
+                <p><a target="_blank" href="https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098">Link to PIX Article</a><p>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+
+<!-- LLN "7 Arrested" --> 
+<section class="about-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">PIX11 on the Tragedy of 04/30</h2>
+                    
+                <p>&nbsp;</p>
+
+                <div class="ratio ratio-16x9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jy717hFO2_k?si=grHsM9QKX2ffZRpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
             </div>
  
         </div>
