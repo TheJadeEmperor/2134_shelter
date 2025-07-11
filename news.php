@@ -168,6 +168,7 @@
 
             <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
                 <h2 class="text-white mb-3">Tragedy of April 30th</h2>
+                <p>On April 30th, Mayor Adams issued a Level 1 Mobilization to disperse protestors at the site—deploying officers from multiple precincts, SWAT teams, and even helicopters. The day was marked by widespread reports of police brutality. Politicians who witnessed the crackdown expressed outrage at the excessive force. Curtis Sliwa criticized the arrests, saying, “They’re targeting citizens instead of real criminals.” Senator Steve Chan echoed the sentiment, even reacting bluntly with a “WTF” directed at the mayor.</p>
                 <div class="ratio ratio-16x9">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/Udp3CT_MipM?si=B2Gunv8l6pXpZGDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
@@ -206,12 +207,59 @@
         <div class="row align-items-center">
 
             <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
-                <h2 class="text-white mb-3">PIX11 on the Tragedy of 04/30</h2>
+                <h2 class="text-white mb-3">LLN on the Tragedy of 04/30</h2>
                     
                 <p>&nbsp;</p>
 
                 <div class="ratio ratio-16x9">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/Jy717hFO2_k?si=grHsM9QKX2ffZRpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+
+<!-- WTF --> 
+<section class="who-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                    
+                <p>&nbsp;</p>
+
+                <div class="col-lg-6 col-12">
+                    <div class="ratio ratio-1x1">
+                        <video controls class="custom-video" playsinline webkit-playsinline>
+                            <source src="images/events/wtf_adams.mp4" type="video/mp4">
+                            <img src="images/events/no_shelter.gif" alt="Your browser does not support video.">
+
+                            Your browser does not support the video tag.
+                        </video> 
+                     
+
+                    </div>
+                </div>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+
+<!-- Steve Chan vs Negro Mayor --> 
+<section class="about-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                
+                <p>&nbsp;</p>
+
+                <div class="ratio ratio-16x9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/aVCcMwPjYqI?si=hp3Sz7yKLvxLldik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
  

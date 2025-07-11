@@ -215,7 +215,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>Two rallies—one starting on Coyle Street and the other on Flatbush Avenue—came together as a single protest at Kings Plaza. The MC was Ronnie "Ronbo" the community champion and the speakers were Senator Stephan Chan, Assemblyman Lester Chang, Lina Chen, Dimple Willabus, and the people's mayor, Curtis Sliwa. They spoke against the shelters and lithium ion batteries, both toxic elements to the community.</p>
+                                <p>Two rallies—one starting on Coyle Street and the other on Flatbush Avenue—came together as a single protest at Kings Plaza. The MC was Ronnie "Ronbo" the community champion and the speakers were Senator Stephan Chan, Assemblyman Lester Chang, Lina Chen, Dimple Willabus, and the people's mayor, Curtis Sliwa. They spoke against the shelters and lithium ion batteries, both toxic elements to the community. <a target="_blank" href="https://citizen.com/-ORgTH98lnmlzo8X80Dl">Citizens</a> <a target="_blank" href="https://www.youtube.com/watch?v=SFQHFbZklD4&ab_channel=Jessiechen">Youtube</a></p> 
                             </div>
                         </div>
                     </div>
