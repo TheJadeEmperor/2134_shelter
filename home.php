@@ -3,26 +3,24 @@
 
 $today = date('m-d-Y');
 
-if($today > "07-13-2025") {
+if($today <= "07-27-2025") {
     
     $nextEvent = array(
-        'nextDate' => 'July 23rd',
-        'nextEventName' => 'Court Battle with Westhab',
-        'nextEventAlert' => ' 📣 Here we go again!',
+        'nextDate' => 'July 27th',
+        'nextEventName' => 'Protest Against Eric Adams',
+        'nextEventAlert' => '📣 8th Ave & 65th St',
     ); 
 
 }
 else {
 
     $nextEvent =  array(
-        'nextDate' => 'July 13th',
-        'nextEventName' => 'Fundraiser for the Base Camp',
-        'nextEventAlert' => 'For supplies, food, lawyer fees, etc.',
+        'nextDate' => 'Sept 3rd',
+        'nextEventName' => 'Court Battle with Westhab',
+        'nextEventAlert' => '📣 Court case has been adjourned until 09/03',
     ); 
 
 }
-
-
 
 ?>
 
@@ -181,21 +179,21 @@ else {
 
             <div class="timeline">
 
-                <!-- July 23rd, 2025 -->
+                <!-- July 25th, 2025 -->
                 <div class="timeline-container timeline-container-left">
                     <div class="timeline-content">
                         <div class="reviews-block">
                             <div class="reviews-block-image-wrap d-flex align-items-center">
-                                <img src="images/reviews/court.png" class="reviews-block-image img-fluid" alt="2134 Coyle Street">
+                                <img src="images/reviews/curtis.jpg" class="reviews-block-image img-fluid" alt="2134 Coyle Street">
 
                                 <div class="">
-                                    <h6 class="reviews-block-headline">July 23rd, 2025</h6>
-                                    <em class="reviews-block-subheadline">Court Case Again</em>
+                                    <h6 class="reviews-block-headline">July 25th, 2025</h6>
+                                    <em class="reviews-block-subheadline">Curtis's Campaign Speech</em>
                                 </div>
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>After losing the case on May 7th, Westhab filed an appeal and tried to sue the backyard homeowners again. If history has taught us anything, it always repeats itself if people have not learned anything. Westhab has not learned anything and lost the case again, so they lost access to the backyard of the lot.</p>
+                                <p>Red Hat Curtis decided to hold a campaign speech at the base camp, speaking to how poorly Eric Adams has managed the city. Mamdami is a communist and should never hold office, and Communist Cuomo killed hundreds of nursing home seniors. Other speakers include your leaders Ronbo, Andy, and Little Notebook, as well as two cute little ones. <a target="_BLANK" href="https://www.youtube.com/watch?v=--PSNxcrZfk&ab_channel=AmyZhu">Video</a></p>
                             </div>
                         </div>
                     </div>
