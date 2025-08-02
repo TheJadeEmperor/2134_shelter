@@ -17,8 +17,32 @@ document.addEventListener('DOMContentLoaded', function () {
         eventClick: function (info) {
           modalTitle.innerText = info.event.title;
           modalDesc.innerHTML = info.event.extendedProps.description || 'No description.';
-          modal.style.display = 'block';
+          modal.style.display = 'flex';
+        },
+
+        validRange: {
+          start: '2024-07-01' // absolute lower limit
+        },
+        datesSet: function (arg) {
+          const currentDate = calendar.getDate();
+          const minBlocked = new Date('2024-08-01');
+          const maxBlocked = new Date('2025-04-01');
+          const julDate = new Date('2024-07-01');
+
+          // Block if in Aug 2024 - Feb 2025
+          if (currentDate >= minBlocked && currentDate < maxBlocked) {
+            if (lastDate && currentDate < lastDate) {
+              // going backwards: send to July
+              calendar.gotoDate(julDate);
+            } else {
+              // going forwards into blocked range: send to March
+              calendar.gotoDate(maxBlocked);
+            }
+          }
+
+          lastDate = currentDate;
         }
+        
       });
 
       calendar.render();

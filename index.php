@@ -1,7 +1,7 @@
 <?php
-
 include('hoverbox.php'); 
 
+$hoverbox = true;
 switch($_GET['page']) {
    
     case 'news':
@@ -14,6 +14,7 @@ switch($_GET['page']) {
         $fileName = '86st.php';
         break;
     case 'calendar':
+        $hoverbox = false; 
         $fileName = 'calendar.html';
         break;
     default:

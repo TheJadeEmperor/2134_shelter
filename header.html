@@ -17,7 +17,13 @@
         <link href="css/bootstrap-icons.css" rel="stylesheet">
         <link href="css/vegas.min.css" rel="stylesheet">
         <link href="css/tooplate-barista.css?ver=12" rel="stylesheet">
-        <link href="css/hoverbox.css" rel="stylesheet">
+
+        <?php 
+        if($hoverbox) {
+            echo '<link href="css/hoverbox.css" rel="stylesheet">';
+        }
+        ?>
+        
 
         <!-- Google tag (gtag.js) -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-2PB7PSSMN5"></script>
@@ -45,41 +51,45 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
         
-                        <div class="collapse navbar-collapse" id="navbarNav">
-                            <ul class="navbar-nav ms-lg-auto">
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./#about_us">About</a>
-                                </li>
-        
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./#westhab">Who</a>
-                                </li>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-lg-auto">
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./#about_us">About</a>
+                        </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./#history">History</a>
-                                </li>
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./#westhab">Who</a>
+                        </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./#events">Events</a>
-                                </li>
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./#history">History</a>
+                        </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./?page=volunteer">Volunteer</a>
-                                </li>
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./#events">Events</a>
+                        </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./?page=news">News</a>
-                                </li>
+                         <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./?page=calendar">Calendar</a>
+                        </li>
 
-                                <li class="nav-item">
-                                    <a class="nav-link click-scroll" href="./?page=86st">86st</a>
-                                </li>
-                            </ul>
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./?page=news">News</a>
+                        </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./?page=volunteer">Volunteer</a>
+                        </li>
 
-                            <div class="ms-lg-3">
-                                <a target="_BLANK" class="btn custom-btn custom-border-btn" href="https://chng.it/CYLz6pyD">Petition  <i class="bi-arrow-up-right ms-2"></i>
-                                </a>
-                            </div>
-                        </div>
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="./?page=86st">86st</a>
+                        </li>
+                    </ul>
+
+                    <div class="ms-lg-3">
+                        <a target="_BLANK" class="btn custom-btn custom-border-btn" href="https://chng.it/CYLz6pyD">Petition  <i class="bi-arrow-up-right ms-2"></i>
+                        </a>
                     </div>
-                </nav>
+                </div>
+            </div>
+        </nav>
