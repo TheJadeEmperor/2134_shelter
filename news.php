@@ -189,13 +189,16 @@
         <div class="row align-items-center">
 
             <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
-                <h2 class="text-white mb-3">PIX11 on the Tragedy of 04/30</h2>
-                    
+                <h2 class="text-white mb-3">PIX11: "Locking Up Good Citizens"</h2>
+
+                <p><a target="_blank" href="https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098">https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098</a><p>
+
                 <p>&nbsp;</p>
 
-                <p><a target="_blank" href="https://pix11.com/video/locking-up-good-citizens-lawmaker-on-homeless-shelter-protest-arrests/10677098">Link to PIX Article</a><p>
-            </div>
- 
+                <h2 class="text-white mb-3">Brooklyn Paper: "Tiananmen Square"</h2>
+
+                <p><a target="_blank" href="https://www.brooklynpaper.com/sheepshead-bay-coyle-street-sheter-protests/">https://www.brooklynpaper.com/sheepshead-bay-coyle-street-sheter-protests/</a><p>
+            </div> 
         </div>
     </div>
 </section>
@@ -213,6 +216,26 @@
 
                 <div class="ratio ratio-16x9">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/Jy717hFO2_k?si=grHsM9QKX2ffZRpy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+ 
+        </div>
+    </div>
+</section>
+
+
+<!-- "Outrage" --> 
+<section class="about-section section-padding" id="about_us">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <div class="col-lg-12 col-12 mt-4 mt-lg-0 mx-auto">
+                <h2 class="text-white mb-3">Clips from April 30th: "Outrage"</h2>
+
+                <p>&nbsp;</p>
+
+                <div class="ratio ratio-16x9">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/eaWLl2fkLJk?si=GqZpjPnGugTcYy_H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                 </div>
             </div>
  
@@ -265,4 +288,4 @@
  
         </div>
     </div>
-</section>
+</section> 

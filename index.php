@@ -13,6 +13,9 @@ switch($_GET['page']) {
     case '86st':
         $fileName = '86st.php';
         break;
+    case 'calendar':
+        $fileName = 'calendar.html';
+        break;
     default:
         $fileName = 'home.php';
 

@@ -1,7 +1,6 @@
-
 <?php
 
-$today = date('m-d-Y');
+$today = date('m-d-Y'); 
 
 if($today <= "07-27-2025") {
     
@@ -178,7 +177,26 @@ else {
             </div>
 
             <div class="timeline">
+                <!-- July 27th, 2025 -->
+                <div class="timeline-container timeline-container-right">
+                    <div class="timeline-content">
+                        <div class="reviews-block">
+                            <div class="reviews-block-image-wrap d-flex align-items-center">
+                                <img src="images/reviews/adams.jpg" class="reviews-block-image img-fluid" alt="2134 Coyle Street"> 
 
+                                <div class="">
+                                    <h6 class="reviews-block-headline">July 27th, 2025</h6>
+                                    <em class="reviews-block-subheadline">Anti-Adams Protest</em>
+                                </div>
+                            </div>
+
+                            <div class="reviews-block-info">
+                                <p>This protest took place on 8th ave & 65th street. A group of communists support Mayor Adams as he made a speech. A second larger group, led by your leaders Ronbo, Andy, and Benjamin Louie, protested against Adams and his misguided supporters. Police were present at the scene but it ended entirely peaceful. Lester Chang and Steve Chan were present to speak to the news. <a target="_BLANK" href="https://www.youtube.com/watch?v=QsCdeGAxZKk">YT Video</a> <a target="_BLANK" href="https://go.citizen.com/NUjb7DfMlVb">Citizen</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <!-- July 25th, 2025 -->
                 <div class="timeline-container timeline-container-left">
                     <div class="timeline-content">
@@ -193,7 +211,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>Red Hat Curtis decided to hold a campaign speech at the base camp, speaking to how poorly Eric Adams has managed the city. Mamdami is a communist and should never hold office, and Communist Cuomo killed hundreds of nursing home seniors. Other speakers include your leaders Ronbo, Andy, and Little Notebook, as well as two cute little ones. <a target="_BLANK" href="https://www.youtube.com/watch?v=--PSNxcrZfk&ab_channel=AmyZhu">Video</a></p>
+                                <p>Red Hat Curtis decided to hold a campaign speech at the base camp, speaking to how poorly Eric Adams has managed the city. Mamdami is a communist and should never hold office, and Communist Cuomo killed hundreds of nursing home seniors. Other speakers include your leaders Ronbo, Andy, and Benjamin Louie, as well as two cute little ones. <a target="_BLANK" href="https://www.youtube.com/watch?v=--PSNxcrZfk&ab_channel=AmyZhu">Video</a></p>
                             </div>
                         </div>
                     </div>
@@ -218,7 +236,6 @@ else {
                         </div>
                     </div>
                 </div>
-
 
                 <!-- May 07, 2025 -->
                 <div class="timeline-container timeline-container-left">
@@ -314,7 +331,7 @@ else {
 
                                 <div class="">
                                     <h6 class="reviews-block-headline">April 02, 2025</h6>
-                                    <em class="reviews-block-subheadline"> Court Date 1</em>
+                                    <em class="reviews-block-subheadline">Court Date 1</em>
                                 </div>
                             </div>
 
@@ -334,7 +351,7 @@ else {
 
                                 <div class="">
                                     <h6 class="reviews-block-headline">March 25, 2025</h6>
-                                    <em class="reviews-block-subheadline">Community chaos</em>
+                                    <em class="reviews-block-subheadline">Community Chaos</em>
                                 </div>
                             </div>
 
@@ -369,25 +386,25 @@ else {
                     </div>
                 </div>
 
-                        <!-- March 15, 2025 -->
-                        <div class="timeline-container timeline-container-left">
-                        <div class="timeline-content">
-                            <div class="reviews-block">
-                                <div class="reviews-block-image-wrap d-flex align-items-center">
-                                    <img src="images/reviews/dimple.jpg" class="reviews-block-image img-fluid" alt="2134 Coyle Street">
+                <!-- March 15, 2025 -->
+                <div class="timeline-container timeline-container-left">
+                <div class="timeline-content">
+                    <div class="reviews-block">
+                        <div class="reviews-block-image-wrap d-flex align-items-center">
+                            <img src="images/reviews/dimple.jpg" class="reviews-block-image img-fluid" alt="2134 Coyle Street">
 
-                                    <div class="">
-                                        <h6 class="reviews-block-headline">March 15, 2025</h6>
-                                        <em class="reviews-block-subheadline"> Initial Protests</em>
-                                    </div>
-                                </div>
-
-                                <div class="reviews-block-info">
-                                    <p>Hundreds of community members and local politicians, protested the city's decision to replace the planned affordable housing with a homeless shelter. The biggest supporters are Dimple Willabus, candidate for City Council D46, as well as Curtis Sliwa, candidate for Mayor.  <a target="_blank" href="https://longisland.news12.com/homeless-shelter-set-to-come-to-sheepshead-bay-residents-and-local-leaders-say-no?utm_source=chatgpt.com">Source</a></p>
-                                </div>
+                            <div class="">
+                                <h6 class="reviews-block-headline">March 15, 2025</h6>
+                                <em class="reviews-block-subheadline"> Initial Protests</em>
                             </div>
                         </div>
+
+                        <div class="reviews-block-info">
+                            <p>Hundreds of community members and local politicians, protested the city's decision to replace the planned affordable housing with a homeless shelter. The biggest supporters are Dimple Willabus, candidate for City Council D46, as well as Curtis Sliwa, candidate for Mayor.  <a target="_blank" href="https://longisland.news12.com/homeless-shelter-set-to-come-to-sheepshead-bay-residents-and-local-leaders-say-no?utm_source=chatgpt.com">Source</a></p>
+                        </div>
                     </div>
+                </div>
+            </div>
 
             
                 <!-- July 2023 -->
