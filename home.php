@@ -191,7 +191,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>This protest took place on 8th ave & 65th street. A group of communists support Mayor Adams as he made a speech. A second larger group, led by your leaders Ronbo, Andy, and Benjamin Louie, protested against Adams and his misguided supporters. Police were present at the scene but it ended entirely peaceful. Lester Chang and Steve Chan were present to speak to the news. <a target="_BLANK" href="https://www.youtube.com/watch?v=QsCdeGAxZKk">YT Video</a> <a target="_BLANK" href="https://go.citizen.com/NUjb7DfMlVb">Citizen</a></p>
+                                <p>This protest took place on 8th ave & 65th street. A group of communists support Mayor Adams as he made a speech. A second larger group, led by your leaders Ronbo, Andy, and Benjamin Louie, protested against Adams and his misguided supporters. Police were present at the scene but it ended entirely peaceful. Lester Chang and Steve Chan were present to speak to the news. <a target="_BLANK" href="https://www.youtube.com/watch?v=QsCdeGAxZKk">YT Video</a> <a target="_BLANK" href="https://go.citizen.com/NUjb7DfMlVb">Citizen</a> <a target='_BLANK' href='https://mp.weixin.qq.com/s/FSkmSbjFRZdHEtLmBvX_xA'>Weixin</a></p>
                             </div>
                         </div>
                     </div>

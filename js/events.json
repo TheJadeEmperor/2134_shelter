@@ -2,12 +2,12 @@
   {
     "title": "Election Day",
     "start": "2025-11-04",
-    "description": "<p> </p>"
+    "description": "<p></p>"
   },
   {
     "title": "Court Case of Shu Ling Lin",
-    "start": "2025-09-04",
-    "description": "<p> Shu Ling Lin was one of seven arrested on April 30th, a tragic protest that's compared to Tiananman Square. </p>"
+    "start": "2025-09-04 09:30",
+    "description": "<p>Location: <a target='_BLANK' href='https://maps.app.goo.gl/DBnrk3hJQTXB9aMr9'>320 Jay Street, AP1F</a></p> <p>Shu Ling Lin was one of seven arrested on April 30th, a tragic protest that's compared to Tiananman Square. </p>"
   },
   {
     "title": "Adjourned Court Case",
@@ -16,13 +16,18 @@
   },
   {
     "title": "Court Case of Jenny Ma",
-    "start": "2025-08-18",
-    "description": "<p>Jenny Ma was one of seven arrested on the April 30th, a tragic protest that's compared to Tiananman Square. We hope that the charges against her are dropped, just like the five others who were arrested at the same protest.</p>"
+    "start": "2025-08-18 09:30",
+    "description": "<p>Location: <a target='_BLANK' href='https://maps.app.goo.gl/LELEBasDYo5xifbo6'>120 Schermerhorn St, AP-3</a></p><p>Jenny Ma was one of seven arrested on the April 30th, a tragic protest that's compared to Tiananman Square. We hope that the charges against her are dropped, just like the five others who were arrested at the same protest.</p>"
+  },
+  {
+    "title": "National Night Out at 61st Precint",
+    "start": "2025-08-04 16:00",
+    "description": "<p>Location: <a target='_BLANK' href='https://maps.app.goo.gl/DvnN3pssYAtDxrN3A'>61st Precint</a></p><p>National Night Out is an annual community-building campaign that promotes police-community partnerships and neighborhood relationships. It takes place on the first Tuesday of August in most areas and events often include block parties, cookouts, and opportunities to meet local officers and learn about crime prevention. </p>"
   },
   {
     "title": "Anti-Adams Protest",
     "start": "2025-07-27",
-    "description": "<p>This protest took place on 8th ave & 65th street. A group of communists support Mayor Adams as he made a speech. A second larger group, led by your leaders Ronbo, Andy, and Benjamin Louie, protested against Adams and his misguided supporters. Police were present at the scene but it ended entirely peaceful. Lester Chang and Steve Chan were present to speak to the news. <a target='_BLANK' href='https://www.youtube.com/watch?v=QsCdeGAxZKk'>YT Video</a> <a target='_BLANK' href='https://go.citizen.com/NUjb7DfMlVb'>Citizen</a></p>"
+    "description": "<p>This protest took place on 8th ave & 65th street. A group of communists support Mayor Adams as he made a speech. A second larger group, led by your leaders Ronbo, Andy, and Benjamin Louie, protested against Adams and his misguided supporters. Police were present at the scene but it ended entirely peaceful. Lester Chang and Steve Chan were present to speak to the news. <a target='_BLANK' href='https://www.youtube.com/watch?v=QsCdeGAxZKk'>YT Video</a> <a target='_BLANK' href='https://go.citizen.com/NUjb7DfMlVb'>Citizen</a> <a target='_BLANK' href='https://mp.weixin.qq.com/s/FSkmSbjFRZdHEtLmBvX_xA'>Weixin</a></p>"
   },
   {
     "title": "Curtis's Campaign Speech",
