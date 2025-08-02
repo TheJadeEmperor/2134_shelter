@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
   const modalTitle = document.getElementById('modal-title');
   const modalDesc = document.getElementById('modal-description');
 
-  fetch('events.json')
+  fetch('js/events.json')
     .then(response => {
       if (!response.ok) throw new Error('Failed to load events.json');
       return response.json();
