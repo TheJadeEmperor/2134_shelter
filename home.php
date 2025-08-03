@@ -286,7 +286,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>Hundreds of protesters marched down Avenue U, starting from Coyle Street. Cars honked as they drove by, showing their support for our cause. This massive protest was led by red hat Curtis Sliwa and Steve Chan, and managed by Lina and Dimple Willabus. The rally ended at Coney Island Avenue, where Curtis made a speech. It was the first time in history Ave U has seen such a huge rally. <a href="https://www.epochtimes.com/b5/25/5/5/n14499174.htm" target="_blank">Link</a></p>
+                                <p>Hundreds of protesters marched down Avenue U, starting from Coyle Street. Cars honked as they drove by, showing their support for our cause. This massive protest was led by red hat Curtis Sliwa and Steve Chan, and managed by Lina and Dimple Willabus. The rally ended at Coney Island Avenue, where Curtis made a speech. It was the first time in history Ave U has seen such a huge rally. <a target='_BLANK' href='https://www.epochtimes.com/b5/25/5/5/n14499174.htm'>News</a> <a target='_BLANK' href='https://www.youtube.com/watch?v=efhPeg9-xgU&ab_channel=shubinzhu'>Video</a></p>
                             </div>
                         </div>
                     </div>
