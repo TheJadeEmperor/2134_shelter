@@ -246,7 +246,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>Energized by their court victory, the protestors' morale was sky high and they marched to City Hall to continue protesting the homeless shelter.</p>
+                                <p>Energized by their court victory, the protestors' morale was sky high and they marched to City Hall to continue protesting the homeless shelter. <a target='_blank' href='https://citizen.com/-OPfnzzYsMqd_0h0kKGd'>Citizens</a> </p>
                             </div>
                         </div>
                     </div>
@@ -266,7 +266,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>As homeowners went to court to fight Westhab's access to their backyard, hundreds of protesters stood outside to protest against Westhab's corporate ambitions and support the working class homeowners. Result: the court ruled that Westhab's claims were bogus as it was a bait and switch, and denied them access to the backyard. </p>
+                                <p>As homeowners went to court to fight Westhab's access to their backyard, hundreds of protesters stood outside to protest against Westhab's corporate ambitions and support the working class homeowners. Result: the court ruled that Westhab's claims were bogus as it was a bait and switch, and denied them access to the backyard. <a target='_blank' href='https://citizen.com/-OPeyotQlZtscXIkF_5s'>Citizens</a>  </p>
                             </div>
                         </div>
                     </div>
@@ -286,7 +286,7 @@ else {
                             </div>
 
                             <div class="reviews-block-info">
-                                <p>Hundreds of protesters marched down Avenue U, starting from Coyle Street. Cars honked as they drove by, showing their support for our cause. This massive protest was led by red hat Curtis Sliwa and Steve Chan, and managed by Lina and Dimple Willabus. The rally ended at Coney Island Avenue, where Curtis made a speech. It was the first time in history Ave U has seen such a huge rally. <a target='_BLANK' href='https://www.epochtimes.com/b5/25/5/5/n14499174.htm'>News</a> <a target='_BLANK' href='https://www.youtube.com/watch?v=efhPeg9-xgU&ab_channel=shubinzhu'>Video</a></p>
+                                <p>Hundreds of protesters marched down Avenue U, starting from Coyle Street. Cars honked as they drove by, showing their support for our cause. This massive protest was led by red hat Curtis Sliwa and Steve Chan, and managed by Lina and Dimple Willabus. The rally ended at Coney Island Avenue, where Curtis made a speech. It was the first time in history Ave U has seen such a huge rally. <a target='_BLANK' href='https://www.epochtimes.com/b5/25/5/5/n14499174.htm'>News</a> <a target='_BLANK' href='https://www.youtube.com/watch?v=efhPeg9-xgU&ab_channel=shubinzhu'>Youtube 1</a> <a target='_BLANK' href='https://www.youtube.com/watch?v=spccXq_Q4z4'>Youtube 2</a> </p>
                             </div>
                         </div>
                     </div>
@@ -307,11 +307,15 @@ else {
 
                             <div class="reviews-block-info"> 
                                 <p>Hundreds of protesters clashed with police officers that lasted from morning till night. Seven were arrested and a few others were sent to the hospital. Several videos popped up online showing police brutality, ganging up on the elderly and women. 
-                                    <a href="https://www.youtube.com/watch?v=Udp3CT_MipM&ab_channel=CBSNewYork" target="_blank">CBS</a>  
-                                    
-                                <a href="https://www.youtube.com/watch?v=4lf6gszhbjQ&ab_channel=PIX11News"target="_blank">PIX11</a>
-                            
-                                <a href="https://www.youtube.com/watch?v=Jy717hFO2_k&ab_channel=LLNNYC"target="_blank">LLN</a></p>
+                                <a href='https://www.youtube.com/watch?v=Udp3CT_MipM&ab_channel=CBSNewYork' target='_blank'>CBS</a>
+                                <a href='https://www.youtube.com/watch?v=4lf6gszhbjQ&ab_channel=PIX11News' target='_blank'>PIX11</a>
+                                <a href='https://www.youtube.com/watch?v=Jy717hFO2_k&ab_channel=LLNNYC' target='_blank'>LLN</a>
+                                <br />
+                                <a href='https://www.youtube.com/watch?v=eaWLl2fkLJk&ab_channel=iceling' target='_blank'>Clip 1</a>
+                                 <a href='https://www.youtube.com/watch?v=ZxpDMoiXd4E&ab_channel=iceling' target='_blank'>Clip 2</a>
+                                 <a href='https://www.youtube.com/watch?v=frSEnx4OnwQ&ab_channel=iceling' target='_blank'>Clip 3</a>
+                                 <a href='https://www.youtube.com/watch?v=nnFed63MDy8&ab_channel=shubinzhu' target='_blank'>Curtis</a>
+                                </p>
                             </div>
                         </div>
                     </div>
