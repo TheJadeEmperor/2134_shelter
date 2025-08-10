@@ -2,8 +2,14 @@
 
 $today = date('m-d-Y'); 
 
-if($today <= "07-18-2025") {
+if($today <= "08-12-2025") {
      
+    $nextEvent =  array(
+        'nextDate' => 'August 11th',
+        'nextEventName' => "Curtis Sliwa's Fundraiser",
+        'nextEventAlert' => '📣 Join us for a fundraiser for the Republican Mayor!',
+    ); 
+
 
 }
 else {
