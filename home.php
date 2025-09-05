@@ -2,24 +2,21 @@
 
 $today = date('m-d-Y'); 
 
-if($today <= "08-12-2025") {
+if($today <= "09-25-2025") {
      
     $nextEvent =  array(
-        'nextDate' => 'August 11th',
-        'nextEventName' => "Curtis Sliwa's Fundraiser",
-        'nextEventAlert' => '📣 Join us for a fundraiser for the Republican Mayor!',
+        'nextDate' => 'Sept 24th',
+        'nextEventName' => "Court Battle with Westhab",
+        'nextEventAlert' => '📣 Court case has been adjourned (again) until 09/24',
     ); 
-
-
 }
 else {
 
     $nextEvent =  array(
-        'nextDate' => 'Sept 3rd',
+        'nextDate' => 'Oct 22nd',
         'nextEventName' => 'Court Battle with Westhab',
-        'nextEventAlert' => '📣 Court case has been adjourned until 09/03',
+        'nextEventAlert' => '📣 Court case has been adjourned until 10/22',
     ); 
-
 }
 
 ?>
