@@ -2,20 +2,26 @@
 
 $today = date('m-d-Y'); 
 
-if($today <= "09-25-2025") {
-     
+
+if($today > "10-25-2025") {
     $nextEvent =  array(
-        'nextDate' => 'Sept 24th',
-        'nextEventName' => "Court Battle with Westhab",
-        'nextEventAlert' => '📣 Court case has been adjourned (again) until 09/24',
+        'nextDate' => 'Nov 4th',
+        'nextEventName' => "ELECTION DAY",
+        'nextEventAlert' => '📣 Make sure to vote for Curtis Sliwa!',
+    ); 
+}
+if($today >= "10-08-2025" && $today <= "10-25-2025") {
+    $nextEvent =  array(
+        'nextDate' => 'Oct 25th',
+        'nextEventName' => "Early Voting Begins",
+        'nextEventAlert' => '📣 Make sure to vote for Curtis Sliwa!',
     ); 
 }
 else {
-
     $nextEvent =  array(
-        'nextDate' => 'Oct 22nd',
-        'nextEventName' => 'Court Battle with Westhab',
-        'nextEventAlert' => '📣 Court case has been adjourned until 10/22',
+        'nextDate' => 'Oct 08th',
+        'nextEventName' => 'Court Battle with Westhab (AGAIN)',
+        'nextEventAlert' => '📣 Court case has been adjourned until 10/08',
     ); 
 }
 
@@ -165,7 +171,6 @@ else {
         </div>
     </div>
 </section>
- 
 
 <section class="about-section section-padding section-bg" id="events">
     <div class="container">
