@@ -177,8 +177,27 @@ else {
         <div class="col-lg-12 col-12 text-center mb-4 pb-lg-2">
             <h1 class="text-white mb-0">Events</h1>
 
-                <p>&nbsp;</p>
+                <p>&nbsp;</p><p>&nbsp;</p>
+                <div class="row align-items-center">
+                    <div class="col-lg-5 col-12 mt-4 mt-lg-0 mx-auto">
+                        <?php
+                            $atts = array(
+                                'project_folder' => 'images/events/location',
+                                'project_name' => 'Location'
+                            );
 
+                            echo gallery_function($atts);
+                        ?>
+                    </div>
+
+                    <div class="col-lg-6 col-12">
+                        <p><h3 class="text-white mb-0">Location</h3></p>
+                        <p class="text-white mb-0">Various images taken of the 24/7 Shelter Site showing protestors at the main base, backyard on Ford St. and the corners of Ave U</p>
+                    </div>
+                </div>
+
+                <p>&nbsp;</p><p>&nbsp;</p>
+            
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-12">
                         <p><h3 class="text-white mb-0">Rally on 05/04 on Ave U </h3> </p>
