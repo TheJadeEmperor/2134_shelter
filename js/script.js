@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
         datesSet: function (arg) {
           const currentDate = calendar.getDate();
           const minBlocked = new Date('2024-08-01');
-          const maxBlocked = new Date('2025-04-01');
+          const maxBlocked = new Date('2025-03-01');
           const julDate = new Date('2024-07-01');
 
           // Block if in Aug 2024 - Feb 2025
