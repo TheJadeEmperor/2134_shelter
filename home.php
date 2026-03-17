@@ -3,25 +3,12 @@
 $today = date('m-d-Y'); 
 
 
-if($today > "10-25-2025") {
+
+ {
     $nextEvent =  array(
-        'nextDate' => 'Nov 4th',
-        'nextEventName' => "ELECTION DAY",
-        'nextEventAlert' => '📣 Make sure to vote for Curtis Sliwa!',
-    ); 
-}
-if($today >= "10-08-2025" && $today <= "10-25-2025") {
-    $nextEvent =  array(
-        'nextDate' => 'Oct 25th',
-        'nextEventName' => "Early Voting Begins",
-        'nextEventAlert' => '📣 Make sure to vote for Curtis Sliwa!',
-    ); 
-}
-else {
-    $nextEvent =  array(
-        'nextDate' => 'Oct 08th',
-        'nextEventName' => 'Court Battle with Westhab (AGAIN)',
-        'nextEventAlert' => '📣 Court case has been adjourned until 10/08',
+        'nextDate' => '03/11/2026',
+        'nextEventName' => 'Stop Order from DOB',
+        'nextEventAlert' => '📣📣 A Stop Order has been placed on 2134 Coyle street from the DOB due to a gas line leak',
     ); 
 }
 
