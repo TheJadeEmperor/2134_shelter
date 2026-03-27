@@ -7,13 +7,11 @@ switch($_GET['page']) {
     case 'news':
         $fileName = 'news.php';
         break;
-    case 'volunteer':
-        $fileName = 'volunteer.html';
         break;
     case '86st':
         $fileName = '86st.php';
         break;
-    case 'calendar':
+    case 'history':
         $hoverbox = false; 
         $fileName = 'calendar.html';
         break;
