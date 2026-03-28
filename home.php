@@ -5,8 +5,10 @@ $today = date('m/d');
 
 $nextEvent =  array(
     'smallText' => '📣📣 <em class="small-text">'.$today.' Major Update</em>📣📣 ',
-    'nextEventName' => 'Stop Order from DOB',
-    'nextEventAlert' => '📣📣 A Stop Order has been placed on 2134 Coyle street from the DOB due to a gas line leak',
+    'nextEventName' => 'Partial Stop Order',
+    'nextEventAlert' => '📣📣 A Stop Order has been placed on 2134 Coyle street <br />
+     from the DOB due to a gas line leak. <br />
+     It is now a partial stop order',
 ); 
 
 
@@ -539,4 +541,4 @@ $nextEvent =  array(
  
         </div>
     </div>
-</section> 
+</section>
